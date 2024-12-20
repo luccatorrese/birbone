@@ -1,0 +1,31 @@
+{
+  "image1": {
+    "row": 13,
+    "col": 1,
+    "height": 0.6,
+    "width": 5
+  },
+  "navigation1": {
+    "row": 0,
+    "height": 1,
+    "width": 11
+  },
+  "table2": {
+    "row": 5,
+    "col": 1,
+    "height": 1,
+    "width": 11
+  },
+  "text1": {
+    "row": 1.6,
+    "col": 1,
+    "height": 0.6,
+    "width": 11
+  },
+  "text2": {
+    "row": 13.6,
+    "col": 2,
+    "height": 0.6,
+    "width": 2
+  }
+}
